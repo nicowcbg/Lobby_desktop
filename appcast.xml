@@ -6,15 +6,15 @@
     <description>Release Notes</description>
     <language>en</language>
     <item>
-      <title>Version 1.0.50</title>
-      <pubDate>Mon, 13 Apr 2026 23:32:32 +0000</pubDate>
-      <sparkle:version>1.0.50</sparkle:version>
-      <sparkle:shortVersionString>1.0.50</sparkle:shortVersionString>
+      <title>Version 1.0.51</title>
+      <pubDate>Tue, 14 Apr 2026 00:01:31 +0000</pubDate>
+      <sparkle:version>1.0.51</sparkle:version>
+      <sparkle:shortVersionString>1.0.51</sparkle:shortVersionString>
       <enclosure
-        url="https://github.com/nicowcbg/Lobby_desktop/releases/download/v1.0.50/Lobby-1.0.50.dmg"
-        sparkle:version="1.0.50"
-        sparkle:shortVersionString="1.0.50"
-        sparkle:edSignature="5HmBATu4ZLWy5ctaPatrUkKe96tEeE3V7gwQII86tgSnxSu3NpeAabi4yBnwrozuZzJ1wUjUkOMXLqEDW9YWCQ==" length="2530021"
+        url="https://github.com/nicowcbg/Lobby_desktop/releases/download/v1.0.51/Lobby-1.0.51.dmg"
+        sparkle:version="1.0.51"
+        sparkle:shortVersionString="1.0.51"
+        sparkle:edSignature="d3rTB48eMs5crbYXTv2Tyf8PdETgZ+XWwWtw82kY+cgVgC/FIa9kfV/3l9x6gQTRx/ht1QT+J4hmaMoQXh3QBA==" length="2530103"
         type="application/octet-stream"/>
     </item>
   </channel>
