@@ -53,7 +53,7 @@
 	<key>WKRunsIndependentlyOfCompanionApp</key>
 	<true/>
 	<key>SUFeedURL</key>
-<string>https://raw.githubusercontent.com/b2oule/Lobbydesktop/main/appcast.xml</string>
+<string>https://raw.githubusercontent.com/nicowcbg/Lobby_desktop/main/appcast.xml</string>
 <key>SUPublicEDKey</key>
 <string>haReVX8PMf08p58knGBgFvlybCH+eN+MxS33sg6mqxE=</string>
 <key>SUEnableAutomaticChecks</key>
