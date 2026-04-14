@@ -7,14 +7,14 @@
     <language>en</language>
     <item>
       <title>Version 1.0.51</title>
-      <pubDate>Tue, 14 Apr 2026 00:01:31 +0000</pubDate>
+      <pubDate>Tue, 14 Apr 2026 01:16:58 +0000</pubDate>
       <sparkle:version>1.0.51</sparkle:version>
       <sparkle:shortVersionString>1.0.51</sparkle:shortVersionString>
       <enclosure
         url="https://github.com/nicowcbg/Lobby_desktop/releases/download/v1.0.51/Lobby-1.0.51.dmg"
         sparkle:version="1.0.51"
         sparkle:shortVersionString="1.0.51"
-        sparkle:edSignature="d3rTB48eMs5crbYXTv2Tyf8PdETgZ+XWwWtw82kY+cgVgC/FIa9kfV/3l9x6gQTRx/ht1QT+J4hmaMoQXh3QBA==" length="2530103"
+        sparkle:edSignature="vWfz9FXO+FZ7uN006RUzuyHMmYNj9TVY3S6NYZ4zHQA3ZpSWLzf+RLJKBH7NQHZg4bAgsgTT0zO/5OtNy1u/AA==" length="2530177"
         type="application/octet-stream"/>
     </item>
   </channel>
